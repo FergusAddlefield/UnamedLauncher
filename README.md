@@ -1,7 +1,6 @@
-### ⬇️ Download
+## ⬇️ Download
 
-[**UnamedLauncher.exe**](https://github.com/FergusAddlefield/UnamedLauncher/releases/latest/download/UnamedLauncher.exe)
-
+**[➡ UnamedLauncher.exe](../../releases/latest/download/UnamedLauncher.exe)**
 
 ## Installation
 
@@ -10,3 +9,9 @@
 3. Lancer `UnamedLauncher.exe`
 
 > Aucune installation requise. Le launcher se met à jour automatiquement à chaque démarrage.
+
+## Prérequis
+
+| | |
+|---|---|
+| **.NET Framework** | Installé par défaut sur Windows 10 / 11 — aucune action requise |
